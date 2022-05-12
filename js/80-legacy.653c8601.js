@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkjam_frontend"]=self["webpackChunkjam_frontend"]||[]).push([[80],{7080:function(n,e,t){t.r(e),t.d(e,{default:function(){return l}});var r=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div")},u=[],a={name:"RegisterPage",data:function(){return{}},onLoad:function(){this.$emit("changeAppBar",!0)}},c=a,f=t(1001),i=(0,f.Z)(c,r,u,!1,null,null,null),l=i.exports}}]);
+//# sourceMappingURL=80-legacy.653c8601.js.map
